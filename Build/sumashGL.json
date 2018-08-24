@@ -1,0 +1,13 @@
+{
+"companyName": "SchlangenNagel",
+"productName": "SMASH GUNNER",
+"dataUrl": "sumashGL.data.unityweb",
+"asmCodeUrl": "sumashGL.asm.code.unityweb",
+"asmMemoryUrl": "sumashGL.asm.memory.unityweb",
+"asmFrameworkUrl": "sumashGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
